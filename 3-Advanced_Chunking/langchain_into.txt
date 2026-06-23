@@ -1,0 +1,61 @@
+LangChain is a framework for building applications powered by Large Language Models (LLMs).
+It provides modular components for prompts, chains, agents, memory, and retrieval.
+Developers can integrate models from OpenAI, Anthropic, and other providers.
+Retrieval-Augmented Generation (RAG) is a common use case in LangChain.
+Vector databases such as Pinecone and Chroma are often used to store embeddings.
+
+Machine learning models learn patterns from data.
+Supervised learning requires labeled examples.
+Unsupervised learning discovers hidden structures in datasets.
+Deep learning uses neural networks with many layers.
+Training large models can require significant computational resources.
+
+The Eiffel Tower is located in Paris.
+Millions of tourists visit Paris every year.
+France is known for its history, art, and cuisine.
+The Louvre Museum houses famous artworks including the Mona Lisa.
+French is the official language of France.
+
+My coffee mug is blue and sits on the corner of the desk.
+Yesterday I misplaced a pen and found it inside a book.
+The ceiling fan makes a soft humming sound during the afternoon.
+A small plant near the window needs watering every few days.
+
+Pinecone is a managed vector database designed for similarity search.
+Embeddings convert text into numerical representations.
+Similar pieces of text are located close to each other in vector space.
+Vector search enables efficient retrieval of relevant documents.
+This technology is widely used in RAG pipelines.
+
+The Pacific Ocean is the largest ocean on Earth.
+It covers more than 30% of the planet's surface.
+Many islands are scattered across the Pacific region.
+Marine ecosystems in the ocean support diverse species.
+Ocean currents influence weather patterns around the world.
+
+A red bicycle leaned against the old brick wall.
+Three birds landed briefly on a nearby fence.
+Someone left an umbrella beside a park bench.
+The street became unusually quiet after sunset.
+
+Semantic chunking groups text based on meaning rather than size.
+Embedding similarity is often used to identify topic changes.
+Sentences discussing the same concept remain together.
+This creates coherent chunks with better contextual integrity.
+The resulting chunks are often more useful for retrieval systems.
+
+The stock market fluctuates based on economic conditions.
+Investors analyze financial reports before making decisions.
+Interest rates can influence market behavior.
+Long-term investing often focuses on fundamentals rather than short-term trends.
+
+A cat slept peacefully under a wooden table.
+The kitchen clock stopped working last week.
+Fresh oranges were arranged in a basket near the door.
+A distant train whistle echoed through the evening air.
+
+Large Language Models can generate text, summarize documents, and answer questions.
+Prompt engineering can significantly affect model outputs.
+Fine-tuning allows models to specialize in specific domains.
+Evaluation metrics help measure model performance.
+AI applications are rapidly evolving across industries.
