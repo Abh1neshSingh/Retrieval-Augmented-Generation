@@ -1,0 +1,26 @@
+
+    Machine Learning:
+
+Machine learning is a subset of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed.
+
+Key Features of Machine Learning:
+1. Learns from data automatically
+2. Improves performance over time
+3. Identifies patterns and relationships
+4. Handles large amounts of data
+5. Reduces human intervention
+
+Types of Machine Learning:
+1. Supervised Learning: Uses labeled data (e.g., classification, regression)
+2. Unsupervised Learning: Finds patterns in unlabeled data (e.g., clustering)
+3. Reinforcement Learning: Learns through rewards and penalties
+
+Applications of Machine Learning:
+1. Image recognition
+2. Speech recognition
+3. Natural Language Processing (NLP)
+4. Recommendation systems
+5. Fraud detection
+6. Chatbots and virtual assistants
+
+    
